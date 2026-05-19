@@ -1,4 +1,4 @@
-<img width="1900" height="915" alt="Screenshot 2026-05-19 145200" src="https://github.com/user-attachments/assets/a110cc53-1cf7-4954-b065-cbd37b0b6b81" /># 👨‍💻 Rangumudri Vamsi
+# 👨‍💻 Rangumudri Vamsi
 **`Recent Graduate Fresher • Frontend Developer • Full Stack Developer`**
 
 ## About Me
@@ -12,108 +12,86 @@
 
 ## Skill stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,bootstrap,nodejs,mysql,supabase,git,github,vscode,figma,vercel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,css,react,tailwind,bootstrap,svelte,nodejs,mysql,supabase,git,github,vscode,figma,vercel&theme=dark)](https://skillicons.dev)
 
 **Also comfortable with**:
 REST APIs, Responsive Design, Authentication Systems, Dashboard Development, UI Animations, Component Architecture, Deployment Workflows, and SEO Optimization.
 
 ---
 
-## Projects - showcase
+## Projects - Showcase
 
 <table>
-  <tr>
+<tr>
 
-<td align="center" width="33%">
+<td width="50%" valign="top" align="center">
 
 <a href="https://bitsvizag.com">
-<img src=""
-alt="BITS Vizag Website"
-style="width:100%; height:200px; object-fit:cover;"/>
+  <img 
+    src="https://github.com/user-attachments/assets/a110cc53-1cf7-4954-b065-cbd37b0b6b81"
+    alt="College Website"
+    style="
+      width:100%;
+      height:240px;
+      object-fit:cover;
+      border:1px solid #30363d;
+      display:block;
+    "
+  />
 </a>
 
-<br/>
+<h2>🎓 College Website</h2>
 
-<b>BITSVizag.com</b><br/>
+<p>
+Developing a modern institutional college website with responsive UI,
+dynamic sections, and scalable frontend systems.
+</p>
 
-<sub>
-Developing a modern institutional college website with premium UI,
-responsive architecture, dynamic sections, and scalable frontend systems.
-</sub>
-
-<br/>
-
-🔗 <a href="https://bitsvizag.com">Live Website</a>
+🔗 <a href="https://bitsvizag.com"><b>bitsvizag.com</b></a>
 
 <br/>
 
 <sub>
-Tags: Next.js, Tailwind CSS, Full Stack, UI/UX
+Tags: Svelte, Tailwind CSS, Vite, GSAP, Lenis & Splide:
 </sub>
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top" align="center">
 
-<a href="YOUR_PROJECT_LINK">
-<img src="YOUR_PROJECT_IMAGE"
-alt="DoneTogether Project"
-style="width:100%; height:200px; object-fit:cover;"/>
+<a href="https://donetogether.vercel.app">
+  <img 
+    src="https://github.com/user-attachments/assets/85746c63-052f-4001-9a66-e9ed89916ad8"
+    alt="DoneTogether Platform"
+    style="
+      width:100%;
+      height:240px;
+      object-fit:cover;
+      border:1px solid #30363d;
+      display:block;
+    "
+  />
 </a>
 
-<br/>
+<h2>🤝 DoneTogether Platform</h2>
 
-<b>DoneTogether Platform</b><br/>
+<p>
+Built a modern collaboration platform for students and teams
+with clean UI and responsive design.
+</p>
 
-<sub>
-Built a modern collaboration platform with responsive UI,
-authentication systems, and real-world functionality.
-</sub>
-
-<br/>
-
-🔗 <a href="YOUR_PROJECT_LINK">Repo</a>
+🔗 <a href="https://donetogether.vercel.app"><b>donetogether</b></a>
 
 <br/>
 
 <sub>
-Tags: React, Node.js, MongoDB
+Tags: Typescript,React, Tailwind CSS, Framer motion, Supabase (PostgreSQL, Auth, Real-time), TanStack Query
 </sub>
 
 </td>
 
-<td align="center" width="33%">
-
-<a href="YOUR_PROJECT_LINK">
-<img src="YOUR_PROJECT_IMAGE"
-alt="Interactive Games"
-style="width:100%; height:200px; object-fit:cover;"/>
-</a>
-
-<br/>
-
-<b>Interactive Web Games</b><br/>
-
-<sub>
-Built browser-based games using dynamic JavaScript logic,
-smooth interactions, and responsive gameplay systems.
-</sub>
-
-<br/>
-
-🔗 <a href="YOUR_PROJECT_LINK">Repo</a>
-
-<br/>
-
-<sub>
-Tags: JavaScript, UI Design, Game Logic
-</sub>
-
-</td>
-
-  </tr>
+</tr>
 </table>
-
 ---
 
 ## Stats
