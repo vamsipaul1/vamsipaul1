@@ -102,11 +102,11 @@ Tags: Typescript,React, Tailwind CSS, Framer motion, Supabase (PostgreSQL, Auth,
 
 ## Current Focus
 
-- Advanced React & Next.js
-- Scalable Frontend Systems
+- upskilling React & DSA
+- Scalable backend Systems
 - Premium UI Engineering
 - Full Stack Web Applications
-- Modern Website Architecture
+- Practicing Coding & solving
 - Real-World Production Projects
 
 ---
@@ -114,13 +114,13 @@ Tags: Typescript,React, Tailwind CSS, Framer motion, Supabase (PostgreSQL, Auth,
 ## Links
 
 - [**BITS Vizag Website**](https://bitsvizag.com)
-- [**Portfolio**](YOUR_PORTFOLIO_LINK)
-- [**Contact**](mailto:YOUR_EMAIL)
+- [**Portfolio**](https://vamsi-portfolio-vickyverse.vercel.app/)
+- [**Contact**](mailto:vamsi.rangumudri.dev@gmail.com)
 
-<a href="YOUR_LINKEDIN_LINK" target="blank">
+<a href="https://www.linkedin.com/in/vamsi-rangumudri/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/vamsipaul1" target="blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
