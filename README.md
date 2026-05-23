@@ -19,86 +19,63 @@ REST APIs, Responsive Design, Authentication Systems, Dashboard Development, UI 
 
 ---
 
-## Projects - Showcase
+## Projects
 
 <table>
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 <a href="https://bitsvizag.com">
   <img 
     src="https://github.com/user-attachments/assets/a110cc53-1cf7-4954-b065-cbd37b0b6b81"
-    alt="College Website"
-    style="
-      width:100%;
-      height:240px;
-      object-fit:cover;
-      border:1px solid #30363d;
-      display:block;
-    "
+    alt="BITS Vizag Website"
+    width="100%"
   />
 </a>
 
-<h2>🎓 College Website</h2>
+### 🎓 College Website
 
-<p>
-Developing a modern institutional college website with responsive UI,
-dynamic sections, and scalable frontend systems.
-</p>
-
-🔗 <a href="https://bitsvizag.com"><b>bitsvizag.com</b></a>
+Modern institutional website built with responsive UI, dynamic sections, and scalable frontend architecture.
 
 <br/>
 
-<sub>
-Tags: Svelte, Tailwind CSS, Vite, GSAP, Lenis & Splide:
-</sub>
+**Tech Stack**  
+Svelte • Tailwind CSS • Vite • GSAP • Lenis • Splide
+
+<br/>
+
+🔗 https://bitsvizag.com
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 <a href="https://donetogether.vercel.app">
   <img 
     src="https://github.com/user-attachments/assets/85746c63-052f-4001-9a66-e9ed89916ad8"
     alt="DoneTogether Platform"
-    style="
-      width:100%;
-      height:240px;
-      object-fit:cover;
-      border:1px solid #30363d;
-      display:block;
-    "
+    width="100%"
   />
 </a>
 
-<h2>🤝 DoneTogether Platform</h2>
+### 🤝 DoneTogether
 
-<p>
-Built a modern collaboration platform for students and teams
-with clean UI and responsive design.
-</p>
-
-🔗 <a href="https://donetogether.vercel.app"><b>donetogether</b></a>
+Collaboration platform for students and teams with authentication, modern UI, and real-time features.
 
 <br/>
 
-<sub>
-Tags: Typescript,React, Tailwind CSS, Framer motion, Supabase (PostgreSQL, Auth, Real-time), TanStack Query
-</sub>
+**Tech Stack**  
+TypeScript • React • Tailwind CSS • Framer Motion • Supabase • TanStack Query
+
+<br/>
+
+🔗 https://donetogether.vercel.app
 
 </td>
 
 </tr>
 </table>
----
-
-## Stats
-
-![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
 
 ## Current Focus
 
@@ -109,18 +86,34 @@ Tags: Typescript,React, Tailwind CSS, Framer motion, Supabase (PostgreSQL, Auth,
 - Practicing Coding & solving
 - Real-World Production Projects
 
----
+--- 
 
-## Links
+## Connect With Me
 
-- [**BITS Vizag Website**](https://bitsvizag.com)
-- [**Portfolio**](https://vamsi-portfolio-vickyverse.vercel.app/)
-- [**Contact**](mailto:vamsi.rangumudri.dev@gmail.com)
+<p align="left">
 
-<a href="https://www.linkedin.com/in/vamsi-rangumudri/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<a href="https://bitsvizag.com" target="_blank">
+  <img src="https://img.shields.io/badge/BITS%20Vizag-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<a href="https://github.com/vamsipaul1" target="blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+<a href="https://vamsi-portfolio-vickyverse.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+<a href="mailto:vamsi.rangumudri.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="left">
+
+<a href="https://github.com/vamsipaul1" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="42" />
+</a>
+
+<a href="https://www.linkedin.com/in/vamsi-rangumudri/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+</a>
+
+</p>
