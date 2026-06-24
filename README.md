@@ -79,7 +79,7 @@ TypeScript • React • Tailwind CSS • Framer Motion • Supabase • TanStac
 
 ## Current Focus
 
-- upskilling React & DSA
+- Upskilling React & DSA
 - Scalable backend Systems
 - Premium UI Engineering
 - Full Stack Web Applications
