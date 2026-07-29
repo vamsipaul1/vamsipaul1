@@ -27,11 +27,8 @@ REST APIs, Responsive Design, Authentication Systems, Dashboard Development, UI 
 <td width="50%" valign="top">
 
 <a href="https://bitsvizag.com">
-  <img 
-    src="https://github.com/user-attachments/assets/a110cc53-1cf7-4954-b065-cbd37b0b6b81"
-    alt="BITS Vizag Website"
-    width="100%"
-  />
+<img width="1916" height="927" alt="Screenshot 2026-07-29 184855" src="https://github.com/user-attachments/assets/7430cd34-6ad2-46a8-a2dd-72de821cf0b1" />
+
 </a>
 
 ### 🎓 College Website
@@ -80,7 +77,7 @@ TypeScript • React • Tailwind CSS • Framer Motion • Supabase • TanStac
 ## Current Focus
 
 - Upskilling React & DSA
-- Scalable backend Systems
+- Scalable backend Systems 
 - Premium UI Engineering
 - Full Stack Web Applications
 - Practicing Coding & solving
